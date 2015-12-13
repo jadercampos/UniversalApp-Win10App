@@ -1,0 +1,17 @@
+D:\Projetos\DotNet\UniversalApp\DAL\bin\x86\Debug\DAL.dll
+D:\Projetos\DotNet\UniversalApp\DAL\bin\x86\Debug\DAL.pdb
+D:\Projetos\DotNet\UniversalApp\DAL\bin\x86\Debug\DAL.pri
+D:\Projetos\DotNet\UniversalApp\DAL\obj\x86\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Projetos\DotNet\UniversalApp\DAL\obj\x86\Debug\DAL.dll
+D:\Projetos\DotNet\UniversalApp\DAL\obj\x86\Debug\DAL.pdb
+D:\Projetos\DotNet\UniversalApp\DAL\obj\x86\Debug\priconfig.xml
+D:\Projetos\DotNet\UniversalApp\DAL\obj\x86\Debug\priconfig.xml.intermediate
+D:\Projetos\DotNet\UniversalApp\DAL\obj\x86\Debug\layout.resfiles
+D:\Projetos\DotNet\UniversalApp\DAL\obj\x86\Debug\layout.resfiles.intermediate
+D:\Projetos\DotNet\UniversalApp\DAL\obj\x86\Debug\resources.resfiles
+D:\Projetos\DotNet\UniversalApp\DAL\obj\x86\Debug\resources.resfiles.intermediate
+D:\Projetos\DotNet\UniversalApp\DAL\obj\x86\Debug\pri.resfiles
+D:\Projetos\DotNet\UniversalApp\DAL\obj\x86\Debug\pri.resfiles.intermediate
+D:\Projetos\DotNet\UniversalApp\DAL\obj\x86\Debug\qualifiers.txt
+D:\Projetos\DotNet\UniversalApp\DAL\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Projetos\DotNet\UniversalApp\DAL\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt

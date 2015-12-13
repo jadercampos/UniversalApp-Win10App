@@ -1,0 +1,5 @@
+D:\Projetos\DotNet\UniversalApp\WcfService1\bin\WcfService1.dll.config
+D:\Projetos\DotNet\UniversalApp\WcfService1\bin\WcfService1.dll
+D:\Projetos\DotNet\UniversalApp\WcfService1\bin\WcfService1.pdb
+D:\Projetos\DotNet\UniversalApp\WcfService1\obj\Release\WcfService1.dll
+D:\Projetos\DotNet\UniversalApp\WcfService1\obj\Release\WcfService1.pdb
